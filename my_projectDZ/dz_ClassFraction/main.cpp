@@ -1,3 +1,4 @@
+#include "fraction.h"
 int main()
 {
     Fraction my_drob;
